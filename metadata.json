@@ -1,7 +1,7 @@
 {
   "name": "Predicate",
   "website": "https://predicate.io/",
-  "description": "A policy engine for smarter contracts; abstracting away pre-transaction computation while maintaining decentralization",
-  "logo": "https://raw.githubusercontent.com/predicatelabs/avs-metadata/master/predicate_logo.jpg",
+  "description": "Predicate is a network for simplifying transaction prerequisites. Through Predicate, users, developers, and communities define rules for onchain interactions, integrating expressive pre-transaction logic into decentralized applications. These rules, like legos, can be stacked to form policies, which are enforced by the Predicate Network.",
+  "logo": "https://raw.githubusercontent.com/predicatelabs/avs-metadata/master/logo.png",
   "twitter": "https://x.com/0xPredicate"
 }
